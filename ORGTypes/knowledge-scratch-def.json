@@ -1,0 +1,11 @@
+{
+    "orgName": "danielgustafson Company",
+    "edition": "Enterprise",
+    "features": [],
+    "settings" : {
+      "knowledgeSettings" : {
+        "enableKnowledge" : true
+      }
+    }
+  }
+  
